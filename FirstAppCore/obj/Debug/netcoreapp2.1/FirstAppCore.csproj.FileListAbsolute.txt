@@ -1,0 +1,14 @@
+D:\Practice Test\DotNetCore\FirstApp\FirstAppCore\FirstAppCore\bin\Debug\netcoreapp2.1\FirstAppCore.deps.json
+D:\Practice Test\DotNetCore\FirstApp\FirstAppCore\FirstAppCore\bin\Debug\netcoreapp2.1\FirstAppCore.runtimeconfig.json
+D:\Practice Test\DotNetCore\FirstApp\FirstAppCore\FirstAppCore\bin\Debug\netcoreapp2.1\FirstAppCore.runtimeconfig.dev.json
+D:\Practice Test\DotNetCore\FirstApp\FirstAppCore\FirstAppCore\bin\Debug\netcoreapp2.1\FirstAppCore.dll
+D:\Practice Test\DotNetCore\FirstApp\FirstAppCore\FirstAppCore\bin\Debug\netcoreapp2.1\FirstAppCore.pdb
+D:\Practice Test\DotNetCore\FirstApp\FirstAppCore\FirstAppCore\obj\Debug\netcoreapp2.1\FirstAppCore.csprojAssemblyReference.cache
+D:\Practice Test\DotNetCore\FirstApp\FirstAppCore\FirstAppCore\obj\Debug\netcoreapp2.1\FirstAppCore.csproj.CoreCompileInputs.cache
+D:\Practice Test\DotNetCore\FirstApp\FirstAppCore\FirstAppCore\obj\Debug\netcoreapp2.1\FirstAppCore.RazorAssemblyInfo.cache
+D:\Practice Test\DotNetCore\FirstApp\FirstAppCore\FirstAppCore\obj\Debug\netcoreapp2.1\FirstAppCore.RazorAssemblyInfo.cs
+D:\Practice Test\DotNetCore\FirstApp\FirstAppCore\FirstAppCore\obj\Debug\netcoreapp2.1\FirstAppCore.AssemblyInfoInputs.cache
+D:\Practice Test\DotNetCore\FirstApp\FirstAppCore\FirstAppCore\obj\Debug\netcoreapp2.1\FirstAppCore.AssemblyInfo.cs
+D:\Practice Test\DotNetCore\FirstApp\FirstAppCore\FirstAppCore\obj\Debug\netcoreapp2.1\FirstAppCore.RazorTargetAssemblyInfo.cache
+D:\Practice Test\DotNetCore\FirstApp\FirstAppCore\FirstAppCore\obj\Debug\netcoreapp2.1\FirstAppCore.dll
+D:\Practice Test\DotNetCore\FirstApp\FirstAppCore\FirstAppCore\obj\Debug\netcoreapp2.1\FirstAppCore.pdb

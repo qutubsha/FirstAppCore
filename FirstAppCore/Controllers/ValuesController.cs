@@ -19,9 +19,16 @@ namespace FirstAppCore.Controllers
 
         // GET api/values/5
         [HttpGet("{id}")]
-        public ActionResult<string> Get(int id)
+        public ActionResult<string> GetValue(int id)
         {
-            return "value";
+            return "value is " + id;
+        }
+
+        [HttpGet]
+        [Route("harish/{id}")]
+        public ActionResult<string> GetMyId(int id)
+        {
+            return "This is a value from Harish";
         }
 
         // POST api/values
